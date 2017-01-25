@@ -1,1 +1,7 @@
-# CS5542-labs
+# CS5542-labs<br>
+Jackie Batson<br>
+Class ID: 4<br>
+Spring 2017<br>
+<br>
+Wiki Links:<br>
+<a href="https://github.com/jbvx8/CS5542-labs/wiki/Lab-1">Lab 1</a>
