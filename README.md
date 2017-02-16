@@ -7,3 +7,4 @@ Wiki Links:<br>
 <a href="https://github.com/jbvx8/CS5542-labs/wiki/Lab-1">Lab 1</a><br>
 <a href="https://github.com/jbvx8/CS5542-labs/wiki/Lab-2">Lab 2</a><br>
 <a href="https://github.com/jbvx8/CS5542-labs/wiki/Lab-3">Lab 3</a><br>
+<a href="https://github.com/jbvx8/CS5542-labs/wiki/Lab-4">Lab 4</a><br>
