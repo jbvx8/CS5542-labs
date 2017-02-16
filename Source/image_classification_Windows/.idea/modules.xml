@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab4.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_classification-build.iml" filepath="$PROJECT_DIR$/.idea/modules/image_classification-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_classification_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/image_classification_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/image_classification_windows-build.iml" filepath="$PROJECT_DIR$/.idea/modules/image_classification_windows-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/source.iml" filepath="$PROJECT_DIR$/../.idea/modules/source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/source-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/source-build.iml" />
+    </modules>
+  </component>
+</project>
