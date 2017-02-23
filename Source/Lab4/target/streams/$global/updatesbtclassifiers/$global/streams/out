@@ -1,12 +1,12 @@
 [debug] Other repositories:
 [debug] Default repositories:
 [debug] Using inline dependencies specified in Scala.
-[debug] no default cache defined: set to C:\Users\Anonymous\.ivy2\cache
 [debug] :: resolving dependencies :: image_classification#image_classification$sbt_2.11;1.0
 [debug] 	confs: [default]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'default'
+[debug] no default cache defined: set to C:\Users\Anonymous\.ivy2\cache
 [debug] == resolving dependencies for image_classification#image_classification$sbt_2.11;1.0 [default]
 [debug] == resolving dependencies image_classification#image_classification$sbt_2.11;1.0->org.scala-sbt#sbt;0.13.8 [default->default(compile)]
 [info] Resolving org.scala-sbt#sbt;0.13.8 ...
@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1453ms :: artifacts dl 47ms
+[debug] :: resolution report :: resolve 3292ms :: artifacts dl 110ms
 [debug] 	report for image_classification#image_classification$sbt_2.11;1.0 default produced in C:\Users\Anonymous\Documents\CS5542\CS5542-labs\Source\Lab4\target\resolution-cache\reports\image_classification-image_classification$sbt_2.11-default.xml
-[debug] 	resolve done (1453ms resolve - 47ms download)
+[debug] 	resolve done (3292ms resolve - 110ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: image_classification#image_classification$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1070,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 172ms :: artifacts dl 31ms
+[debug] :: resolution report :: resolve 369ms :: artifacts dl 93ms
 [debug] 	report for image_classification#image_classification$sources_2.11;1.0 default produced in C:\Users\Anonymous\Documents\CS5542\CS5542-labs\Source\Lab4\target\resolution-cache\reports\image_classification-image_classification$sources_2.11-default.xml
-[debug] 	resolve done (172ms resolve - 31ms download)
+[debug] 	resolve done (369ms resolve - 93ms download)
