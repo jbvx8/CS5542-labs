@@ -4,7 +4,7 @@
 		module="image_classification$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170222225833"
+		publication="20170223173652"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
