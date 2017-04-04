@@ -36,6 +36,9 @@ Thumbs.db
 .idea
 #.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
 .gradle
+
+# large files
+*.Source/Lab10/RetrainInceptionFinalLayer/data/retrain_logs/train/events.out.tfevents.1491252407.jackie-VirtualBox
 build/
 
 #NDK
